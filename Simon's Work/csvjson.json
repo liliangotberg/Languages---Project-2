@@ -1,0 +1,296 @@
+[
+  {
+    "Geographic Area Name": "Alabama",
+    "Eritrea": 55,
+    "El_Salvador": 2374,
+    "India": 9276
+  },
+  {
+    "Geographic Area Name": "Arizona",
+    "Eritrea": 1407,
+    "El_Salvador": 8621,
+    "India": 40183
+  },
+  {
+    "Geographic Area Name": "Arkansas",
+    "Eritrea": 0,
+    "El_Salvador": 13514,
+    "India": 8282
+  },
+  {
+    "Geographic Area Name": "California",
+    "Eritrea": 6522,
+    "El_Salvador": 437016,
+    "India": 486876
+  },
+  {
+    "Geographic Area Name": "Colorado",
+    "Eritrea": 1273,
+    "El_Salvador": 9765,
+    "India": 21981
+  },
+  {
+    "Geographic Area Name": "Connecticut",
+    "Eritrea": 106,
+    "El_Salvador": 6674,
+    "India": 41480
+  },
+  {
+    "Geographic Area Name": "Delaware",
+    "Eritrea": 68,
+    "El_Salvador": 1273,
+    "India": 11434
+  },
+  {
+    "Geographic Area Name": "District of Columbia",
+    "Eritrea": 555,
+    "El_Salvador": 12238,
+    "India": 2984
+  },
+  {
+    "Geographic Area Name": "Florida",
+    "Eritrea": 756,
+    "El_Salvador": 45730,
+    "India": 85926
+  },
+  {
+    "Geographic Area Name": "Georgia",
+    "Eritrea": 2401,
+    "El_Salvador": 27032,
+    "India": 89194
+  },
+  {
+    "Geographic Area Name": "Idaho",
+    "Eritrea": 51,
+    "El_Salvador": 1040,
+    "India": 1956
+  },
+  {
+    "Geographic Area Name": "Illinois",
+    "Eritrea": 776,
+    "El_Salvador": 9996,
+    "India": 160356
+  },
+  {
+    "Geographic Area Name": "Indiana",
+    "Eritrea": 474,
+    "El_Salvador": 8005,
+    "India": 28740
+  },
+  {
+    "Geographic Area Name": "Iowa",
+    "Eritrea": 432,
+    "El_Salvador": 3569,
+    "India": 9913
+  },
+  {
+    "Geographic Area Name": "Kansas",
+    "Eritrea": 366,
+    "El_Salvador": 4091,
+    "India": 14203
+  },
+  {
+    "Geographic Area Name": "Kentucky",
+    "Eritrea": 34,
+    "El_Salvador": 2138,
+    "India": 11347
+  },
+  {
+    "Geographic Area Name": "Louisiana",
+    "Eritrea": 104,
+    "El_Salvador": 5861,
+    "India": 6688
+  },
+  {
+    "Geographic Area Name": "Maine",
+    "Eritrea": 96,
+    "El_Salvador": 513,
+    "India": 1318
+  },
+  {
+    "Geographic Area Name": "Maryland",
+    "Eritrea": 2604,
+    "El_Salvador": 108128,
+    "India": 61911
+  },
+  {
+    "Geographic Area Name": "Massachusetts",
+    "Eritrea": 738,
+    "El_Salvador": 39776,
+    "India": 69848
+  },
+  {
+    "Geographic Area Name": "Michigan",
+    "Eritrea": 510,
+    "El_Salvador": 2903,
+    "India": 71810
+  },
+  {
+    "Geographic Area Name": "Minnesota",
+    "Eritrea": 1703,
+    "El_Salvador": 7803,
+    "India": 30163
+  },
+  {
+    "Geographic Area Name": "Mississippi",
+    "Eritrea": 0,
+    "El_Salvador": 657,
+    "India": 4436
+  },
+  {
+    "Geographic Area Name": "Missouri",
+    "Eritrea": 570,
+    "El_Salvador": 3759,
+    "India": 19703
+  },
+  {
+    "Geographic Area Name": "Montana",
+    "Eritrea": 0,
+    "El_Salvador": 21,
+    "India": 170
+  },
+  {
+    "Geographic Area Name": "Nebraska",
+    "Eritrea": 182,
+    "El_Salvador": 4725,
+    "India": 6496
+  },
+  {
+    "Geographic Area Name": "Nevada",
+    "Eritrea": 945,
+    "El_Salvador": 25438,
+    "India": 9486
+  },
+  {
+    "Geographic Area Name": "New Hampshire",
+    "Eritrea": 2,
+    "El_Salvador": 523,
+    "India": 7905
+  },
+  {
+    "Geographic Area Name": "New Jersey",
+    "Eritrea": 319,
+    "El_Salvador": 47782,
+    "India": 248849
+  },
+  {
+    "Geographic Area Name": "New Mexico",
+    "Eritrea": 0,
+    "El_Salvador": 1980,
+    "India": 3093
+  },
+  {
+    "Geographic Area Name": "New York",
+    "Eritrea": 1274,
+    "El_Salvador": 109733,
+    "India": 160769
+  },
+  {
+    "Geographic Area Name": "North Carolina",
+    "Eritrea": 1313,
+    "El_Salvador": 30618,
+    "India": 66430
+  },
+  {
+    "Geographic Area Name": "North Dakota",
+    "Eritrea": 84,
+    "El_Salvador": 86,
+    "India": 1363
+  },
+  {
+    "Geographic Area Name": "Ohio",
+    "Eritrea": 1600,
+    "El_Salvador": 6231,
+    "India": 60167
+  },
+  {
+    "Geographic Area Name": "Oklahoma",
+    "Eritrea": 230,
+    "El_Salvador": 3604,
+    "India": 9834
+  },
+  {
+    "Geographic Area Name": "Oregon",
+    "Eritrea": 625,
+    "El_Salvador": 5430,
+    "India": 17628
+  },
+  {
+    "Geographic Area Name": "Pennsylvania",
+    "Eritrea": 661,
+    "El_Salvador": 6849,
+    "India": 87256
+  },
+  {
+    "Geographic Area Name": "Rhode Island",
+    "Eritrea": 67,
+    "El_Salvador": 2524,
+    "India": 5857
+  },
+  {
+    "Geographic Area Name": "South Carolina",
+    "Eritrea": 96,
+    "El_Salvador": 3352,
+    "India": 13113
+  },
+  {
+    "Geographic Area Name": "South Dakota",
+    "Eritrea": 618,
+    "El_Salvador": 915,
+    "India": 1008
+  },
+  {
+    "Geographic Area Name": "Tennessee",
+    "Eritrea": 384,
+    "El_Salvador": 8986,
+    "India": 21276
+  },
+  {
+    "Geographic Area Name": "Texas",
+    "Eritrea": 5018,
+    "El_Salvador": 206561,
+    "India": 253898
+  },
+  {
+    "Geographic Area Name": "Utah",
+    "Eritrea": 0,
+    "El_Salvador": 7295,
+    "India": 7501
+  },
+  {
+    "Geographic Area Name": "Vermont",
+    "Eritrea": 0,
+    "El_Salvador": 108,
+    "India": 857
+  },
+  {
+    "Geographic Area Name": "Virginia",
+    "Eritrea": 2332,
+    "El_Salvador": 107946,
+    "India": 87110
+  },
+  {
+    "Geographic Area Name": "Washington",
+    "Eritrea": 3742,
+    "El_Salvador": 12240,
+    "India": 75552
+  },
+  {
+    "Geographic Area Name": "West Virginia",
+    "Eritrea": 0,
+    "El_Salvador": 643,
+    "India": 2743
+  },
+  {
+    "Geographic Area Name": "Wisconsin",
+    "Eritrea": 340,
+    "El_Salvador": 1117,
+    "India": 22672
+  },
+  {
+    "Geographic Area Name": "Wyoming",
+    "Eritrea": 0,
+    "El_Salvador": 503,
+    "India": 289
+  }
+]
