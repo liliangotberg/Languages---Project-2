@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8' />
+    <title>Mapbox Language Buttons</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css' rel='stylesheet' />
+    <!--link to css file in static folder-->
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <style>
+        #buttons {
+            width: 90%;
+            margin: 0 auto;
+        }
+        
+        .button {
+            display: inline-block;
+            position: relative;
+            cursor: pointer;
+            width: 20%;
+            padding: 8px;
+            border-radius: 3px;
+            margin-top: 10px;
+            font-size: 12px;
+            text-align: center;
+            color: #fff;
+            background: #1606a7;
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+    </style>
+
+    <div id='map'></div>
+    <ul id='buttons'>
+        <li id='button-en' class='button'>English</li>
+        <li id='button-ar' class='button'>Arabic</li>
+        <li id='button-fr' class='button'>French</li>
+        <li id='button-es' class='button'>Spanish</li>
+    </ul>
+
+    <!--code for popup-->
+
+
+
+
+
+
+
+
+
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoibGdvdGJlcmciLCJhIjoiY2thanFnbzZvMGJ0MTJxcGVwM3B4cnY0dyJ9.P-1k1xTCGmy-2g1-VtOBlg';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/light-v10',
+            center: [16.05, 48],
+            zoom: 2.9
+        });
+        document
+            .getElementById('buttons').addEventListener('click', function(event) {
+                var language = event.target.id.substr('button-'.length);
+                map.setLayoutProperty('country-label', 'text-field', ['get', 'name_' + language]);
+            });
+    </script>
+</body>
+
+</html>
